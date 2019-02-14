@@ -42,7 +42,7 @@ and other services are planned.
 - [ ] dynamic parser IPC updates
 
 ### Bugs and Feature Requests
-Please open an issue on GitHub, or message @acchan#4976 on Discord.
+Please open an issue on GitHub, or message @acchan#5683 on Discord.
 
 ### Contributing
 pls no
