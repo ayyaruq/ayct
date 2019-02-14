@@ -7,8 +7,9 @@ regardless of PC or console platforms. For each message read, an event is dispat
 to parser routines, events are correlated, and then published to various exporters
 such as a live dashboard via WebSocket in, or archived to a database for later analysis.
 
-Triggers, realtime meters, and one-click exports to [FFLogs](https://www.fflogs.com/),
-[TeamCraft](https://ffxivteamcraft.com), and other services are planned.
+Triggers, realtime meters, and one-click exports to [FFLogs](https://www.fflogs.com),
+[TeamCraft](https://ffxivteamcraft.com), [The Hunt](https://ffxiv-the-hunt.net),
+and other services are planned.
 
 ### Parser Roadmap
 - [ ] combat logs
